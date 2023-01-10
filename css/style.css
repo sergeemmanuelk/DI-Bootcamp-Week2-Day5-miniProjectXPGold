@@ -1,0 +1,12 @@
+button {
+    width: 70px;
+    height: 70px;
+}
+
+.number, .decimal {
+    background-color: green;
+}
+
+.operator {
+    background-color: orange;
+}
